@@ -2,5 +2,3 @@ git clone <url> --> this is for cloning git in our local repo
 git add . --> To add file from working area to staging area
 git commit -m "My second commit" 
 git push
-Please give your username and password to commit the changes from local to remote repo
-
