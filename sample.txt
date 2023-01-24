@@ -1,0 +1,2 @@
+This is my Git Class
+we are trying to clone files from local to remote repo.
