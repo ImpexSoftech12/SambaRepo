@@ -1,0 +1,2 @@
+This is Git Branch checkout Class
+And Also we doing Merging the Branches 
